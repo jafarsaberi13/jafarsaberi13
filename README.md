@@ -1,5 +1,5 @@
 # 👋 Hi:
--  💫I’m Mohammad Jafar Saberi<br>- 👀 I’m interested in AI, back end and programming<br>- 📔 I know C programmong language and I am familiar with Python<br>- 🌱 I’m currently learning Java programming language<br>- 🎓 Currently I am learing Computer Engineering in Amirkabir University of Technology<br>- 📫 How to reach me: my email is "mohammadjafarsaberi390@gmail.com" and my ID in social like Facebook and Instagram is "Mohammad Jafar Saberi"<br><br>
+-  💫I’m Mohammad Jafar Saberi<br>- 👀 I’m interested in AI, back end and programming<br>- 📔 I know Java and C programmong language and I am familiar with Python<br>- <br>- 🎓 Currently I am learing Computer Engineering in Amirkabir University of Technology<br>- 📫 How to reach me: my email is "mohammadjafarsaberi390@gmail.com" and my ID in social like Facebook and Instagram is "Mohammad Jafar Saberi"<br><br>
 
 
 ## 🌐 Socials:
