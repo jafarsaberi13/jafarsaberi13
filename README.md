@@ -22,6 +22,8 @@
   </table>
 </div>
 <blockquote>
+    <p><strong>آبی که بر آسود زمینش بخورد زود </strong></p>
+    <p><strong> دریا شود آن رود که پیوسته روان است</strong></p>
     <p><strong>辛い時こそ目標を見失わないで</strong></p>
     <p><strong>あなたならできる。</strong></p>
     <p><strong>集中しろ!</strong></p>
@@ -29,7 +31,7 @@
     <p><strong>やればできる！</strong></p>
     <p><strong>幸せかどうかは、自分次第である。</strong></p>
     <p><strong>明日死ぬかもしれないなら、今日を楽しく生きなさい。</strong></p>
-</blockquote>
+    </blockquote>
 
 <hr>
 
