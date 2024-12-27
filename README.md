@@ -21,6 +21,19 @@
   </tr>
   </table>
 </div>
+<blockquote>
+    <p><strong>辛い時こそ目標を見失わないで</strong></p>
+    <p><strong>あなたならできる。</strong></p>
+    <p><strong>集中しろ!</strong></p>
+    <p><strong>何事も始めるのに遅すぎるということはない。</strong></p>
+    <p><strong>やればできる！</strong></p>
+    <p><strong>幸せかどうかは、自分次第である。</strong></p>
+    <p><strong>明日死ぬかもしれないなら、今日を楽しく生きなさい。</strong></p>
+</blockquote>
+
+<hr>
+
+<p>Stay inspired, keep learning, and never stop growing! 🚀</p>
 <hr>
 <img src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/machine.gif" alt="image_codes" style="padding-left:20px;padding-right:20px" />
 <hr>
