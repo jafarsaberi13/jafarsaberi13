@@ -6,7 +6,7 @@
     <tr>
       <td>
         <div style="max-width: 60%; padding-right: 20px;">
-          -  💫I’m Mohammad Jafar Saberi<br>- 👀 I’m interested in AI, back end and programming<br>- 📔 I know Java and C programmong language and I am familiar with Python <br>- 🎓 Currently I am learing Computer Engineering in Amirkabir University of    Technology<br>- 📫 How to reach me: my email is "mohammadjafarsaberi390@gmail.com"<br><br>
+          -  💫I’m Mohammad Jafar Saberi<br>- 👀 I’m interested in AI, back end and programming<br>- 📔 I know Python, Java and C programmong languages <br>- 🎓 Currently I am learing Computer Engineering in Amirkabir University of    Technology<br>- 📫 How to reach me: my email is "mohammadjafarsaberi390@gmail.com"<br><br>
         </div>
       </td>
       <td>
