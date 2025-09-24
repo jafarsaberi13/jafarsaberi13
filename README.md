@@ -36,7 +36,8 @@
 
 <p>Stay inspired, keep learning, and never stop growing! 🚀</p>
 <hr>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafarsaberi13&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafarsaberi13&layout=compact&langs_count=10)
+
 <hr>
 
 # 💻 Tech Stack:
