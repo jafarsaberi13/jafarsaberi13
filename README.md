@@ -22,8 +22,7 @@
   </table>
 </div>
 <blockquote>
-    <p><strong>آبی که بر آسود زمینش بخورد زود </strong></p>
-    <p><strong> دریا شود آن رود که پیوسته روان است</strong></p>
+
     <p><strong>辛い時こそ目標を見失わないで</strong></p>
     <p><strong>あなたならできる。</strong></p>
     <p><strong>集中しろ!</strong></p>
@@ -37,7 +36,7 @@
 
 <p>Stay inspired, keep learning, and never stop growing! 🚀</p>
 <hr>
-<img src="https://raw.githubusercontent.com/ngud-119/ngud-119/main/machine.gif" alt="image_codes" style="padding-left:20px;padding-right:20px" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafarsaberi13&layout=compact)
 <hr>
 
 # 💻 Tech Stack:
