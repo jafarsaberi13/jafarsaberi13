@@ -38,24 +38,10 @@
 
 ---
 
-<p>Stay inspired, keep learning, and never stop growing! 🚀</p>
-
----
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jafarsaberi13&layout=compact&langs_count=10&theme=tokyonight)
-
----
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jafarsaberi13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -75,9 +61,7 @@
   <a href="https://github.com/Jafarsaberi?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jafarsaberi13&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
   </a>
-  <a href="https://github.com/Jafarsaberi13?tab=stars">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jafarsaberi13&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="49%" alt="Contribution Graph"/>
-  </a>
+  
 </p>
 
 <div align="center">
